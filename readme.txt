@@ -2,7 +2,7 @@
 Contributors: svenl77, gfirem, themekraft
 Tags: contact author, buddyforms, contact the author, email the author, reach the author, buddyforms contact the author
 Requires at least: 4.9
-Tested up to: 6.1.1
+Tested up to: 7.1
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
